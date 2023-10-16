@@ -19,3 +19,5 @@ model.fit(X, y)
 # Print the coefficients
 print('Intercept:', model.intercept_)
 print('Slope:', model.coef_[0])
+
+Activity 02
